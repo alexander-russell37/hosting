@@ -2140,37 +2140,6 @@
     "image": ""
   },
   {
-    "type": "Component",
-    "category": "Ingredients",
-    "name": "SR Flour",
-    "makes": "1 cup",
-    "difficulty": "1",
-    "appliances": "",
-    "veg": "Vegan",
-    "cooktime": "0 minutes",
-    "bulk": "T",
-    "gf": "F",
-    "favourite": "F",
-    "key": "n/a",
-    "cuisine": "World",
-    "tested": "F",
-    "note": "Not actually sure if it is baking powder. TBC.",
-    "items": [
-      {
-        "quantity": "1 cup",
-        "thing": "Plain flour"
-      },
-      {
-        "quantity": "2 tsp",
-        "thing": "Baking powder"
-      }
-    ],
-    "steps": [
-      "Mix and sift thoroughly"
-    ],
-    "image": ""
-  },
-  {
     "type": "Dessert",
     "category": "Cakes",
     "name": "Pavlova",
